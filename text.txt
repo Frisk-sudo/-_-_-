@@ -1,5 +1,5 @@
 life_simulator/
-├── __init__.py  # пустой файл
 ├── main.py
 ├── ecosystem.py
+├── controller.py
 └── organism.py
