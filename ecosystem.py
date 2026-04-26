@@ -1,4 +1,4 @@
-from organism import Organism
+from organism.py import Organism
 
 class Ecosystem:
    def __init__(self):
