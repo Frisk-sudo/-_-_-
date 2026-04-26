@@ -1,5 +1,5 @@
-project/
-  __init__.py
-  main.py
-  organism.py
-  ecosystem.py
+life_simulator/
+├── __init__.py  # пустой файл
+├── main.py
+├── ecosystem.py
+└── organism.py
